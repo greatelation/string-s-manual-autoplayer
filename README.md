@@ -16,6 +16,10 @@
       
     - tkinter comes with Python unless you're on Linux without the GUI libs. If tkinter is missing on Linux: **sudo apt install python3-tk**
 
+  ### Velocity (WIP)
+  - For compatability with velocity run: **pip install psutil** in the Command Prompt (Windows) or Terminal (macOS/Linux) as well
+    > (Velocity is a work in progress)
+
 
 
 # About
